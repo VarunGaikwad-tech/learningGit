@@ -17,5 +17,6 @@ This is to check if git push is working or not
 
 
 
-Lets see the merge conflicts
+Hello this is Varun Gaikwad
+Both changes merged
 
