@@ -15,3 +15,7 @@ brick by brick
 
 This is to check if git push is working or not
 
+
+
+Lets see the merge conflicts
+
